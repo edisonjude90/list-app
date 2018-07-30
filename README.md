@@ -1,3 +1,13 @@
+
+Simple List App
+
+1. List all users.
+2. Allows to search user from the list.
+3. view more details of the user.
+
+=-=-=-=-=-=-=-=--=-=-==-=-=-=-=-=-=-=--=-=-==-=-=-=-=-=-=-=--=-=-==-=-=-=-=-=-=-=--=-=-==-=-=-=-=-=-=-=--=-=-==-=-=-=-=-=-=-=--=-=-=
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
