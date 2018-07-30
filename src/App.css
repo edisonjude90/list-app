@@ -1,0 +1,80 @@
+body {
+  margin:0px;
+  padding:0px;
+  font-family:arial;
+  background-color: #efefef;
+}
+
+.container{
+  width:98%;
+  margin:0px auto;
+}
+
+.container h2 {
+  text-align: justify;
+  padding: 0px 3px;
+  margin: 8px 0px;
+}
+
+.list-bar header {
+  border-bottom: solid 1px #b3b3b3;
+}
+
+.search-info  header {
+  border-bottom: solid 1px #b3b3b3;
+}
+
+.list-bar{
+  width:35%;
+  float:left;
+  border-right:solid 1px #dcdcdc;
+  padding:3px;
+  box-shadow: 0px -3px 8px 7px #dcdcdc;
+}
+
+.person-list li{
+  cursor: pointer;
+}
+
+.list-bar::after {
+  content: "";
+  clear: both;
+}
+
+.search-info{
+  padding:3px;
+  width:30%;
+  float:left;
+  box-shadow: 1px -2px 7px 8px #dcdcdc;
+  margin-left: 10px;
+}
+
+.search-info::after {
+  content: "";
+  clear: both;
+}
+
+.search-box{
+  margin-top:5px;
+}
+
+.search-box input {
+  padding: 10px 1%;
+  width: 98%;
+}
+
+.person-list {
+  margin:0px;
+  padding:0px;
+}
+
+.person-list li{
+  list-style:none;
+  padding:10px 5px;
+  border-bottom:solid 1px #dcdcdc;
+}
+
+.search-info label {
+  padding: 10px 3px;
+  display: block;
+}

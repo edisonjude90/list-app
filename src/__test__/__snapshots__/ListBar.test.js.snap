@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListBar Component list all users 1`] = `
+<div
+  className="list-bar"
+>
+  <header>
+    <h2>
+      List
+    </h2>
+  </header>
+  <div
+    className="search-box"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Search"
+      type="text"
+      value=""
+    />
+  </div>
+  <ul
+    className="person-list"
+  >
+    <li
+      onClick={[Function]}
+    >
+      <span>
+        John Roberts
+      </span>
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      <span>
+        Frita Waters
+      </span>
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      <span>
+        Bart Simpson
+      </span>
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      <span>
+        Harry Simpson
+      </span>
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      <span>
+        David Mark
+      </span>
+    </li>
+    <li
+      onClick={[Function]}
+    >
+      <span>
+        Jason Williams
+      </span>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`ListBar Component list searched user 1`] = `
+<div
+  className="list-bar"
+>
+  <header>
+    <h2>
+      List
+    </h2>
+  </header>
+  <div
+    className="search-box"
+  >
+    <input
+      onChange={[Function]}
+      placeholder="Search"
+      type="text"
+      value=""
+    />
+  </div>
+  <ul
+    className="person-list"
+  >
+    <li
+      onClick={[Function]}
+    >
+      <span>
+        John Roberts
+      </span>
+    </li>
+  </ul>
+</div>
+`;

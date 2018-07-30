@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchInfo Component Displays Users Info 1`] = `
+<div
+  className="search-info"
+>
+  <div>
+    <header>
+      <h2>
+        Info
+      </h2>
+    </header>
+    <div>
+      <label>
+         First Name : 
+        John
+         
+      </label>
+    </div>
+    <div>
+      <label>
+         Last Name : 
+        Roberts
+         
+      </label>
+    </div>
+    <div>
+      <label>
+         Age : 
+        51
+         
+      </label>
+    </div>
+    <div>
+      <label>
+         Date Of Birth : 
+        24-05-1967
+         
+      </label>
+    </div>
+    <div>
+      <label>
+         Location : 
+        Chicago, IL
+         
+      </label>
+    </div>
+    <div>
+      <label>
+         Description : 
+        John is a retired YouTuber
+         
+      </label>
+    </div>
+  </div>
+</div>
+`;

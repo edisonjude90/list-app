@@ -1,0 +1,3 @@
+export const SEARCH_PERSON = "SEARCH_PERSON";
+
+export const VIEW_PERSON_DETAILS = "VIEW_PERSON_DETAILS";
